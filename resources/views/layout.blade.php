@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Title of the document</title>
+<title>คำนวณพื้นที่เรขาคณิต</title>
 
 
 <!-- Latest compiled and minified CSS -->
@@ -21,18 +21,11 @@
 <body>
 
 <body>
-
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-  
-      </div>
-    </nav>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
         <h1>คำนวณพื้นที่เรขาคณิต <i class="fa fa-first-order" aria-hidden="true"></i> </h1>
-        <p>เว็บไซต์ที่จะช่วยในการคำนวณหาพื้นที่ต่างๆของคุณให้ง่ายขึ้น</p>
+        <p>เว็บไซต์ที่จะช่วยในการคำนวณหาพื้นที่เรขาคณิตต่างๆของคุณให้ง่ายขึ้น</p>
       </div>
     </div>
 
@@ -45,7 +38,7 @@
       <hr>
 
       <footer>
-        <p>© 2016 Company, Inc.</p>
+        <p>Create By Batman Team 2016</p>
       </footer>
     </div> <!-- /container -->
 
