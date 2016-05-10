@@ -22,4 +22,35 @@
 body{
 	font-family: 'koho', sans-serif;
 }
-
+.icon-size{
+	font-size: 15em;
+}
+.index p{
+	text-align: center;
+}
+.index1 .center{
+    text-align: center;
+}
+.index1 form{
+    text-align: left;
+}
+h2 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+form{
+    font-size: 1.5em;
+}
+.result {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-top: 15px;
+    visibility: hidden;
+}
+.btnbold{
+    font-weight: bold;
+    font-size: 0.8em;
+}
+.small{
+    visibility: hidden;
+}
